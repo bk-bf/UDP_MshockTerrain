@@ -1,0 +1,10 @@
+{
+    "type": "MOD_INFO",
+    "id": "udp_mshock_terrain",
+    "name": "UDP with MshockXotto+ Terrain",
+    "authors": [ "Calcium" ],
+    "description": "Replaces UndeadPeople terrain tiles with MshockXotto+ tiles",
+    "category": "graphical",
+    "dependencies": [ "dda" ]
+  }
+  
